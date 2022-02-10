@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Liuba</h1>
 <h3 align="center">Front End Developer. I love to learn, explore and code.</h3>
 
-- 🌱 I’m currently learning **typescript and reactnative**
+- 🌱 I’m currently learning **typescript**
 
 - 👨‍💻 All of my projects are available at [https://liuba-developer.com/](https://liuba-developer.com/)
 
