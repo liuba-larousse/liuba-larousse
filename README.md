@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **typescript**
 
-- 👨‍💻 Portfolio [https://liuba-developer.com/](https://liuba-developer.com/)
+- 👨‍💻 Check out my portfolio [https://liuba-developer.com/](https://liuba-developer.com/)
 
 - 📫 How to reach me **liubovkapitulskaya@gmail.com**
 
